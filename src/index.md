@@ -1,15 +1,15 @@
 ---
-title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
+title: Félix SASSUS BOURDA's homepage
+author: Félix SASSUS BOURDA
+shortbio: PhD student in computer science
+description-meta: PhD student in computer science
+og-url: https://f-p-s-b.github.io/
+location: ENS Paris-Saclay
+email: felix.sassus-bourda@ens-paris-saclay.fr
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: They/Them
+pronouns: Any/All
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0000-0000-0000
 dblp: https://dblp.org/
