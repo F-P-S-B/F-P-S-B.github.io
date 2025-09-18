@@ -6,7 +6,7 @@ description-meta: Master student in computer science
 og-url: https://f-p-s-b.github.io/
 location: ENS Paris-Saclay
 email: felix.sassus-bourda[at]ens-paris-saclay.fr
-picture: img/profile.png
+picture: img/profile.jpg
 picture-round: false
 side-by-side: true
 pronouns: Any/All pronouns
