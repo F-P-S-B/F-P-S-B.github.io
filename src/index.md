@@ -33,13 +33,13 @@ My main interests are logic, type theory and programming languages theory.
 
 # Internships
 
-<!-- ``` yaml {.paper}
+``` yaml {.paper}
 title: Formalisation of a type system with intersection multitypes
 authors: Thibaut Balabonski
 venue: LMF, Université Paris-Saclay
 year: 2024
 url: https://basicpage.github.io
-``` -->
+```
 
 # Publications
 
