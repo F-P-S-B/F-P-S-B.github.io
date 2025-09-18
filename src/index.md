@@ -7,7 +7,7 @@ og-url: https://f-p-s-b.github.io/
 location: ENS Paris-Saclay
 email: felix.sassus-bourda[at]ens-paris-saclay.fr
 picture: img/profile.jpg
-picture-round: false
+picture-round: true
 side-by-side: true
 pronouns: Any/All pronouns
 og-picture: https://basicpage.github.io/img/profile.png
