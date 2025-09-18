@@ -55,4 +55,4 @@ url: https://github.com/logsem/clutch/tree/distributions/theories/eris/lib/sampl
 - 2021-2023: Years 1 & 2 of a bachelor's degree in Mathematics and Computer Science at Paris-Saclay university
 - 2023-2024: Year 3 of an advanced bachelor's degree in Computer Science at Paris-Saclay university
 - 2024-2025: Year 1 of a master's degree in theoretical computer science at ENS Paris-Saclay (MPRI)
-- 2025-2025 (currently): Year 2 of a master's degree in theoretical computer science at ENS Paris-Saclay and Paris-Cité University (MPRI)
+- 2025-2026 (currently): Year 2 of a master's degree in theoretical computer science at ENS Paris-Saclay and Paris-Cité University (MPRI)
