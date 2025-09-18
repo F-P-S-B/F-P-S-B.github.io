@@ -9,9 +9,9 @@ email: felix.sassus-bourda@ens-paris-saclay.fr
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: Any/All
+pronouns: Any/All pronouns
 og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
+# orcid: 0000-0000-0000-0000
 dblp: https://dblp.org/
 scholar: https://scholar.google.com/
 hal: https://hal.science/
