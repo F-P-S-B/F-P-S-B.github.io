@@ -21,7 +21,7 @@ github: F-P-S-B
 # bitbucket: bitbucket.com
 # bluesky: https://bsky.app/
 # linkedin: https://www.linkedin.com
-# footer: >-
+footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
