@@ -8,7 +8,7 @@ location: ENS Paris-Saclay
 email: felix.sassus-bourda[at]ens-paris-saclay.fr
 picture: img/profile.jpg
 picture-round: false
-side-by-side: false
+side-by-side: true
 pronouns: Any/All pronouns
 og-picture: https://basicpage.github.io/img/profile.png
 # orcid: 0000-0000-0000-0000
