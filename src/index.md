@@ -12,30 +12,34 @@ side-by-side: true
 pronouns: Any/All pronouns
 og-picture: https://basicpage.github.io/img/profile.png
 # orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
-footer: >-
+# dblp: https://dblp.org/
+# scholar: https://scholar.google.com/
+# hal: https://hal.science/
+# mastodon: https://lipn.info
+github: F-P-S-B
+# gitlab: gitlab
+# bitbucket: bitbucket.com
+# bluesky: https://bsky.app/
+# linkedin: https://www.linkedin.com
+# footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am a computer science student at ENS Paris-Saclay, following the M2 MPRI. 
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
+My main interests are logic, type theory and programming languages theory. 
 
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
+# Internships
+
+``` yaml {.paper}
+title: Formalisation of a type system with intersection multitypes
+authors: Thibaut Balabonski
+venue: LMF, Université Paris-Saclay
+year: 2024
+url: https://basicpage.github.io
+```
 
 # Publications
 
