@@ -1,7 +1,7 @@
 ---
 title: Félix SASSUS BOURDA's homepage
 author: Félix SASSUS BOURDA
-shortbio: PhD student in computer science
+shortbio: Master student in computer science
 description-meta: Master student in computer science
 og-url: https://f-p-s-b.github.io/
 location: ENS Paris-Saclay
