@@ -5,7 +5,7 @@ shortbio: PhD student in computer science
 description-meta: PhD student in computer science
 og-url: https://f-p-s-b.github.io/
 location: ENS Paris-Saclay
-email: felix.sassus-bourda@ens-paris-saclay.fr
+email: felix.sassus-bourda[at]ens-paris-saclay.fr
 picture: img/profile.png
 picture-round: false
 side-by-side: true
@@ -33,13 +33,13 @@ My main interests are logic, type theory and programming languages theory.
 
 # Internships
 
-``` yaml {.paper}
+<!-- ``` yaml {.paper}
 title: Formalisation of a type system with intersection multitypes
 authors: Thibaut Balabonski
 venue: LMF, Université Paris-Saclay
 year: 2024
 url: https://basicpage.github.io
-```
+``` -->
 
 # Publications
 
