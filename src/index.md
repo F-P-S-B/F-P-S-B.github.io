@@ -29,7 +29,7 @@ footer: >-
 
 I am a computer science student at ENS Paris-Saclay, following the M2 MPRI. 
 
-My main interests are logic, type theory and programming languages theory. 
+My main interests are logic, type theory, proof assistants and programming languages theory. 
 
 # Internships
 
