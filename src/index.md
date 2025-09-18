@@ -36,9 +36,18 @@ My main interests are logic, type theory and programming languages theory.
 ``` yaml {.paper}
 title: Formalisation of a type system with intersection multitypes
 authors: Thibaut Balabonski
-venue: LMF, Université Paris-Saclay
-year: 2024
-url: https://basicpage.github.io
+venue: LMF, Paris-Saclay University
+year: 2024, 3rd year Internship, 2 months
+url: https://github.com/F-P-S-B/stage-L3-tight-typings-and-split-bounds
+```
+
+
+``` yaml {.paper}
+title: Adding new distribution samplers to the Eris program logic
+authors: Lars Birkedal
+venue: Logsem, Aarhus University
+year: 2025, 4th year Internship, 5 months
+# url: https://github.com/F-P-S-B/stage-L3-tight-typings-and-split-bounds
 ```
 
 # Publications
