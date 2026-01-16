@@ -11,7 +11,7 @@ picture-round: false
 side-by-side: true
 pronouns: Any/All pronouns
 og-picture: https://basicpage.github.io/img/profile.png
-# orcid: 0000-0000-0000-0000
+orcid: 0009-0007-7559-1326
 # dblp: https://dblp.org/
 # scholar: https://scholar.google.com/
 # hal: https://hal.science/
@@ -50,7 +50,7 @@ year: 2025, 4th year Internship, 5 months
 url: https://github.com/logsem/clutch/tree/distributions/theories/eris/lib/sampling
 ```
 
-# Publication
+# Publications
 
 ``` yaml {.paper}
 title: Modular Specifications and Implementations of Random Samplers in Higher-Order Separation Logic
@@ -61,8 +61,25 @@ url: https://doi.org/10.1145/3779031.3779109
 ```
 
 # Education
+``` yaml {.paper}
+title: Year 2 of a master's degree in theoretical computer science (MPRI)
+venue: ENS Paris-Saclay and Paris-Cité University 
+year: 2025-2026
+```
+``` yaml {.paper}
+title: Year 1 of a master's degree in theoretical computer science (MPRI)
+venue: ENS Paris-Saclay
+year: 2024-2025
+```
 
-- 2021-2023: Years 1 & 2 of a bachelor's degree in Mathematics and Computer Science at Paris-Saclay university
-- 2023-2024: Year 3 of an advanced bachelor's degree in Computer Science at Paris-Saclay university
-- 2024-2025: Year 1 of a master's degree in theoretical computer science at ENS Paris-Saclay (MPRI)
-- 2025-2026 (currently): Year 2 of a master's degree in theoretical computer science at ENS Paris-Saclay and Paris-Cité University (MPRI)
+``` yaml {.paper}
+title: Year 3 of an advanced bachelor's degree in Computer Science
+venue: Paris-Saclay university
+year: 2023-2024
+```
+
+``` yaml {.paper}
+title: Years 1 & 2 of a bachelor's degree in Mathematics and Computer Science
+venue: Paris-Saclay university
+year: 2021-2023
+```
