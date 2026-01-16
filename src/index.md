@@ -50,6 +50,16 @@ year: 2025, 4th year Internship, 5 months
 url: https://github.com/logsem/clutch/tree/distributions/theories/eris/lib/sampling
 ```
 
+# Publication
+
+``` yaml {.paper}
+title: Modular Specifications and Implementations of Random Samplers in Higher-Order Separation Logic
+authors: Virgil Marionneau, Félix Sassus Bourda, Alejandro Aguirre, Lars Birkedal
+venue: CPP
+year: 2026
+url: https://doi.org/10.1145/3779031.3779109
+```
+
 # Education
 
 - 2021-2023: Years 1 & 2 of a bachelor's degree in Mathematics and Computer Science at Paris-Saclay university
