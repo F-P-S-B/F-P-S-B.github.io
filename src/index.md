@@ -34,7 +34,7 @@ My main interests are logic, type theory, proof assistants and programming langu
 # Internships
 
 ``` yaml {.paper}
-title: Formalisation of a type system with intersection multitypes
+title: Formalisation of a type system with non-idempotent intersection types
 authors: Thibaut Balabonski
 venue: LMF, Paris-Saclay University
 year: 2024, 3rd year Internship, 2 months
