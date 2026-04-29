@@ -44,7 +44,7 @@ year: 2026, 5th year Internship, 4 and a half months
 
 ``` yaml {.paper}
 title: Adding new distribution samplers to the Eris program logic
-authors: Lars Birkedal
+authors: Lars Birkedal, Alejandro Aguirre
 venue: Logsem, Aarhus University
 year: 2025, 4th year Internship, 5 months
 url: https://doi.org/10.1145/3779031.3779109
