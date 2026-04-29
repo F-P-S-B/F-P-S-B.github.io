@@ -33,14 +33,14 @@ My main interests are logic, type theory, proof assistants and programming langu
 
 # Internships
 
-``` yaml {.paper}
-title: Formalisation of a type system with non-idempotent intersection types
-authors: Thibaut Balabonski
-venue: LMF, Paris-Saclay University
-year: 2024, 3rd year Internship, 2 months
-url: https://github.com/F-P-S-B/stage-L3-tight-typings-and-split-bounds
-```
 
+
+``` yaml {.paper}
+title: Primitive Types and Verified Erasure in Rocq and MetaRocq
+authors: Matthieu Sozeau
+venue: Gallinette, Inria Rennes
+year: 2026, 5th year Internship, 4 and a half months
+```
 
 ``` yaml {.paper}
 title: Adding new distribution samplers to the Eris program logic
@@ -49,6 +49,15 @@ venue: Logsem, Aarhus University
 year: 2025, 4th year Internship, 5 months
 url: https://doi.org/10.1145/3779031.3779109
 ```
+
+``` yaml {.paper}
+title: Formalisation of a type system with non-idempotent intersection types
+authors: Thibaut Balabonski
+venue: LMF, Paris-Saclay University
+year: 2024, 3rd year Internship, 2 months
+url: https://github.com/F-P-S-B/stage-L3-tight-typings-and-split-bounds
+```
+
 
 # Publications
 
